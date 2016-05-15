@@ -1,0 +1,16 @@
+{
+    "cache_ttl_seconds": 86400,
+    "category": "Fundamental",
+    "description": "Oil Production, Price, and Industry Data",
+    "endpoint": "",
+    "example": "oil",
+    "mnemonic": "OIL",
+    "name": "Oil industry overview",
+    "parameters": [],
+    "price": {
+        "amount": 0.0,
+        "currency": "USD"
+    },
+    "shortcut": "oil",
+    "teaser": "Overview of Oil Production, Price, and Industry Data"
+}
