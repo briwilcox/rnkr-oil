@@ -13,6 +13,6 @@ python-dateutil==2.5.1
 pytz==2016.1
 Quandl==2.8.9
 requests==2.20.0
-rsa==3.3
+rsa==4.1
 s3transfer==0.0.1
 six==1.10.0
